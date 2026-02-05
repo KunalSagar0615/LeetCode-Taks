@@ -12,7 +12,6 @@
 // Input: nums = [3,2,4], target = 6
 // Output: [1,2]
 
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         for(int i = 0; i < nums.length; i++) {
